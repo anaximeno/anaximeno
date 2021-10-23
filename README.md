@@ -27,4 +27,4 @@ I like to use creative solutions to problems, and I believe Artificial Intellige
 
 ### How to reach me:
 
-The better way to reach me is using my email or LinkedIn account listed below my Github profile image. Please note that since I am a college student, I can be a little busy, so I will only respond to a message in more or less time, depending on the relevance of the message.
+The better way to reach me is using my **email** or **LinkedIn** account listed below my Github profile image. Please note that since I am a college student, I can be a little busy, so I will only respond to a message in more or less time, depending on the relevance of the message.
