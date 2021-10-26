@@ -1,6 +1,6 @@
 # Sup :v:
 
-I am a student of the Computer Engineering course at the University of Cape Verde. I also study artificial intelligence and machine learning techniques, specializing in the areas of **Natural Language Processing** and **Automatic Speech Recognition** in my free time.
+I currently study the Computer Engineering course at the University of Cape Verde. I also study artificial intelligence and machine learning techniques, specializing in the areas of **Natural Language Processing** and **Automatic Speech Recognition** in my free time.
 
 ### :star2: Objectives
 
