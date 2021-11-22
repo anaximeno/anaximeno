@@ -8,4 +8,4 @@ I like to use creative solutions to problems, and I believe Artificial Intellige
 
 ### :mailbox_with_mail: How to Reach Me
 
-The better way to reach me is using my email **anaximenobrito@gmail.com** or **[LinkedIn account](https://cv.linkedin.com/in/ax2mk)** which are also listed below my Github profile image. 
+The better way to reach me is using my email **anaximenobrito@gmail.com** or **[LinkedIn account](https://www.linkedin.com/in/anaximeno/?originalSubdomain=cv)** which are also listed below my Github profile image. 
