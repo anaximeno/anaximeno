@@ -1,6 +1,6 @@
 # Sup :v:
 
-I am a student Computer Engineering course at the University of Cape Verde. I also study artificial intelligence on my free time, focusing in **Classical Artificial Intelligence Techniques**, **Natural Language Processing** and **Automatic Speech Recognition**.
+I'm an Undergraduate Informatics Engineer with a specialization in Artificial Intelligence, Machine Learning, and Deep Learning.
 
 ### :star2: Objectives
 
