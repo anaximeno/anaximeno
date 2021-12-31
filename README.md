@@ -1,5 +1,8 @@
 # Sup :v:
 
+(On Update 👷‍♂️)
+
+<!--
 I'm an Undergraduate Informatics Engineer with a specialization in Artificial Intelligence, Machine Learning, and Deep Learning.
 
 ### :star2: Objectives
