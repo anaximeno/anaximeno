@@ -1,9 +1,6 @@
 # Sup :v:
 
-(On Update 👷‍♂️)
-
-<!--
-I'm an Undergraduate Informatics Engineer with a specialization in Artificial Intelligence, Machine Learning, and Deep Learning.
+I'm an Undergraduate Informatics Engineering Student, specialized in Artificial Intelligence.
 
 ### :star2: Objectives
 
