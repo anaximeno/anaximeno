@@ -11,3 +11,4 @@ I like to use creative solutions to problems, and I believe Artificial Intellige
 ### :mailbox_with_mail: How to Reach Me
 
 The better way to reach me is using my email **anaximenobrito@gmail.com** or **[LinkedIn account](https://www.linkedin.com/in/anaximeno/?originalSubdomain=cv)** which are also listed below my Github profile image. 
+My resume can be found on [this link](https://anaximeno.notion.site/Resume-7d8168b5fd3941548a1bb156dc3fc4cd).
