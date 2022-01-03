@@ -1,6 +1,6 @@
 # Sup :v:
 
-I'm an Undergraduate Informatics Engineering Student, specialized in Artificial Intelligence.
+I'm an Undergraduate Informatics Engineering Student, specialized in Software Development and Artificial Intelligence Development.
 
 ### :star2: Objectives
 
