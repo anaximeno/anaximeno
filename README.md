@@ -1,6 +1,6 @@
 # Sup :v:
 
-I'm an undergraduate Computers and Informatics Engineering student, specialized in Software Engineering and Applied Artificial Intelligence.
+I'm an undergraduate Computers and Informatics Engineering student and a Artificial Intelligence Enthusiast.
 
 ### :star2: Objectives
 
