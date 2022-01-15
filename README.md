@@ -11,5 +11,6 @@ I like to use creative solutions to problems, and I believe Artificial Intellige
 ### :mailbox_with_mail: How to Reach Me
 
 > **Email**: [anaximenobrito@gmail.com](mailto:anaximenobrito@gmail.com),  
-> **Linkedin Profile**: [in/anaximeno](https://www.linkedin.com/in/anaximeno/?originalSubdomain=cv),  
-> **Gihub Profile**: [anaximeno](https://github.com/anaximeno),
+> **Linkedin**: [in/anaximeno](https://www.linkedin.com/in/anaximeno/?originalSubdomain=cv),  
+> **Gihub**: [anaximeno](https://github.com/anaximeno),  
+> **Twitter**: [@anaximenobrito](https://twitter.com/anaximenobrito) (I don't use it frequently)
