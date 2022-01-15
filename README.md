@@ -1,6 +1,6 @@
 # Sup :v:
 
-I'm an undergraduate Computers and Informatics Engineering student and a Artificial Intelligence Enthusiast.
+I am a graduate student in Computer and Informatics Engineering and an Artificial Intelligence enthusiast. The main areas I am currently interested in are Backend Engineering/Development and Applied Artificial Intelligence.
 
 ### :star2: Objectives
 
@@ -10,5 +10,6 @@ I like to use creative solutions to problems, and I believe Artificial Intellige
 
 ### :mailbox_with_mail: How to Reach Me
 
-The better way to reach me is using my email **anaximenobrito@gmail.com** or **[LinkedIn account](https://www.linkedin.com/in/anaximeno/?originalSubdomain=cv)** which are also listed below my Github profile image. 
-My resume can be found on **[This Link](https://anaximeno.notion.site/Resume-7d8168b5fd3941548a1bb156dc3fc4cd)**.
+> **Email**: [anaximenobrito@gmail.com](mailto:anaximenobrito@gmail.com),  
+> **Linkedin Profile**: [in/anaximeno](https://www.linkedin.com/in/anaximeno/?originalSubdomain=cv),  
+> **Gihub Profile**: [anaximeno](https://github.com/anaximeno),
