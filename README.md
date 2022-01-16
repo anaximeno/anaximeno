@@ -12,5 +12,5 @@ I like to use creative solutions to problems, and I believe Artificial Intellige
 
 > **Email**: [anaximenobrito@gmail.com](mailto:anaximenobrito@gmail.com),  
 > **Linkedin**: [in/anaximeno](https://www.linkedin.com/in/anaximeno/),  
-> **Gihub**: [anaximeno](https://github.com/anaximeno),  
+> **Gihub**: [github.com/anaximeno](https://github.com/anaximeno),  
 > **Twitter**: [@anaximenobrito](https://twitter.com/anaximenobrito) (I don't use it frequently)
