@@ -1,6 +1,6 @@
 # Sup :v:
 
-I am a graduate student in Computer and Informatics Engineering and an Artificial Intelligence enthusiast. The main areas I am currently interested in are Backend Engineering/Development and Applied Artificial Intelligence.
+I am a undergraduate student in Computer and Informatics Engineering and an Artificial Intelligence enthusiast. The main areas I am currently interested in are Backend Engineering/Development and Applied Artificial Intelligence.
 
 ### :star2: Objectives
 
