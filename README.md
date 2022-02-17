@@ -1,6 +1,6 @@
 # Sup :v:
 
-I am an undergraduate student in Computer and Informatics Engineering and an Artificial Intelligence enthusiast.
+I am a student of the Computer and Informatics Engineering course at the University of Cape Verde and an Artificial Intelligence enthusiast.
 
 ### :star2: Objectives
 
