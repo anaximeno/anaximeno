@@ -17,4 +17,4 @@ I envision a future where we would have intelligent systems to automate some of 
 > **Linkedin**: [in/anaximeno](https://www.linkedin.com/in/anaximeno/)  
 > **Gihub**: [github.com/anaximeno](https://github.com/anaximeno)  
 > **Twitter**: [@anaximenobrito](https://twitter.com/anaximenobrito)  
-> **Kaggle**: [kaggle.com/anaxmenobrito](https://www.kaggle.com/anaxmenobrito])
+> **Kaggle**: [kaggle.com/anaxmenobrito](https://www.kaggle.com/anaxmenobrito)
