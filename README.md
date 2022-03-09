@@ -16,6 +16,6 @@ I envision a future where we would have intelligent systems to automate some of 
 
 > **Email**: [anaximenobrito@gmail.com](mailto:anaximenobrito@gmail.com)  
 > **Linkedin**: [in/anaximeno](https://www.linkedin.com/in/anaximeno/)  
-> **Gihub**: [github.com/anaximeno](https://github.com/anaximeno)  
+> **Github**: [github.com/anaximeno](https://github.com/anaximeno)  
 > **Twitter**: [@anaximenobrito](https://twitter.com/anaximenobrito)  
 > **Kaggle**: [kaggle.com/anaxmenobrito](https://www.kaggle.com/anaxmenobrito)
