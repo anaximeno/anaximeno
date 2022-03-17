@@ -14,4 +14,4 @@ I envision a future where we would have intelligent systems to automate some of 
 -->
 ## :mailbox_with_mail: How to Reach Me
 
-### [GitHub](https://github.com/anaximeno) ✴️ [EMAIL](mailto:anaximenobrito@gmail.com) ✴️ [LinkedIn](https://www.linkedin.com/in/anaximeno/) ✴️ [Twitter](https://twitter.com/anaximenobrito) ✴️ [Kaggle](https://www.kaggle.com/anaxmenobrito)
+[GitHub](https://github.com/anaximeno) ✴️ [EMAIL](mailto:anaximenobrito@gmail.com) ✴️ [LinkedIn](https://www.linkedin.com/in/anaximeno/) ✴️ [Twitter](https://twitter.com/anaximenobrito) ✴️ [Kaggle](https://www.kaggle.com/anaxmenobrito)
