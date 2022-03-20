@@ -1,6 +1,6 @@
 # Sup :v:
 
-I am a student of the Computer and Informatics Engineering course at UniCV looking for interesting stuff related to Software Engineering and/or Artificial Intelligence.
+I am a student of the Computer and Informatics Engineering course at UniCV looking for learning and applicating techniques related to Software Engineering and/or Artificial Intelligence. I am in a constant learning process and my projects are created depending of what I am studying or the ideas I had.
 
 
 ### :star2: Objectives
