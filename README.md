@@ -1,17 +1,19 @@
+[GitHub](https://github.com/anaximeno) ✴️ [Email](mailto:anaximenobrito@gmail.com) ✴️ [LinkedIn](https://www.linkedin.com/in/anaximeno/) ✴️ [Twitter](https://twitter.com/anaximenobrito) ✴️ [Kaggle](https://www.kaggle.com/anaxmenobrito)
+
 # Sup :v:
 
-I am a student of the Computer and Informatics Engineering course at UniCV looking for learning and applicating techniques related to Software Engineering and/or Artificial Intelligence. I am in a constant learning process and my projects are created depending of what I am studying or the ideas I had.
+Sou aluno do curso de Engenharia de Computação e Informática da UniCV buscando aprender e aplicar técnicas relacionadas à Engenharia de Software e/ou Inteligência Artificial. Estou em constante aprendizado e meus projetos são criados dependendo do que estou estudando ou das ideias que tive.
 
 
 ### :star2: Objectives
 
-I like to use creative solutions to problems, and I believe Artificial Intelligence can help to solve and improve the way we handle different types of problems. So, I want to bring some of the Artificial Intelligence techniques as a solution to problems that it is applicable to, of course being aware of the risk of using these types of approaches in the real world.
+I like to use creative solutions to problems, and I believe Software Engineering and Artificial Intelligence can help to solve and improve the way we handle different types of problems. So, I want to bring some of the techniques I learned as a solution to problems were are facing nowadays, of course being aware of the risk of using these types of approaches in the real world.
 
-<!-- TODO: improve this
-### :eye_speech_bubble: Visions
+### :mailbox_with_mail: How to Reach Me
 
-I envision a future where we would have intelligent systems to automate some of the boring stuff we have to deal with daily and have more time to spend with things we really matter.
+The better way to contact me is by using my email which is on the top. Depending on the relevance and the time I have available at the moment, I may or may not be slow to respond.
+
+<!--
+TODO:
+  - Put recommended projects
 -->
-## :mailbox_with_mail: How to Reach Me
-
-[GitHub](https://github.com/anaximeno) ✴️ [EMAIL](mailto:anaximenobrito@gmail.com) ✴️ [LinkedIn](https://www.linkedin.com/in/anaximeno/) ✴️ [Twitter](https://twitter.com/anaximenobrito) ✴️ [Kaggle](https://www.kaggle.com/anaxmenobrito)
