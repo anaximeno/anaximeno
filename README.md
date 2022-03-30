@@ -2,7 +2,7 @@
 
 # Sup :v:
 
-Sou aluno do curso de Engenharia de Computação e Informática da UniCV buscando aprender e aplicar técnicas relacionadas à Engenharia de Software e/ou Inteligência Artificial. Estou em constante aprendizado e meus projetos são criados dependendo do que estou estudando ou das ideias que tive.
+I am a student of the Computer and Informatics Engineering course at UniCV looking for learning and applicating techniques related to Software Engineering and/or Artificial Intelligence. I am in a constant learning process and my projects are created depending of what I am studying or the ideas I had.
 
 
 ### :star2: Objectives
