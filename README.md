@@ -11,7 +11,7 @@ I like to use creative solutions to problems, and I believe Software Engineering
 
 ### :mailbox_with_mail: How to Reach Me
 
-The better way to contact me is by using my email which is on the top. Depending on the relevance and the time I have available at the moment, I may or may not be slow to respond.
+The better way to contact me is by using my [email](mailto:anaximenobrito@gmail.com). Depending on the relevance and the time I have available at the moment, I may or may not be slow to respond.
 
 <!--
 TODO:
