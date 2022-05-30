@@ -1,6 +1,6 @@
 [GitHub](https://github.com/anaximeno) ✴️ [Email](mailto:anaximenobrito@gmail.com) ✴️ [LinkedIn](https://www.linkedin.com/in/anaximeno/) ✴️ [Twitter](https://twitter.com/anaximenobrito) ✴️ [Kaggle](https://www.kaggle.com/anaxmenobrito)
 
-# Sup :v:
+# Sup 👋
 
 I am a student of the Computer and Informatics Engineering course at UniCV looking for learning and applicating techniques related to Software Engineering and/or Artificial Intelligence. I am in a constant learning process and my projects are created depending of what I am studying or the ideas I had.
 
