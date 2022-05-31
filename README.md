@@ -1,4 +1,4 @@
-[GitHub](https://github.com/anaximeno) ✴️ [Email](mailto:anaximenobrito@gmail.com) ✴️ [LinkedIn](https://www.linkedin.com/in/anaximeno/) ✴️ [Twitter](https://twitter.com/anaximenobrito) ✴️ [Kaggle](https://www.kaggle.com/anaxmenobrito)
+[GitHub](https://github.com/anaximeno) ✴️ [Gitlab](https://gitlab.com/anaximeno) ✴️ [Email](mailto:anaximenobrito@gmail.com) ✴️ [LinkedIn](https://www.linkedin.com/in/anaximeno/) ✴️ [Twitter](https://twitter.com/anaximenobrito) ✴️ [Kaggle](https://www.kaggle.com/anaxmenobrito)
 
 # Sup 👋
 
