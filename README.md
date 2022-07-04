@@ -1,5 +1,3 @@
-[GitHub](https://github.com/anaximeno) ✴️ [Gitlab](https://gitlab.com/anaximeno) ✴️ [Email](mailto:anaximenobrito@gmail.com) ✴️ [LinkedIn](https://www.linkedin.com/in/anaximeno/) ✴️ [Twitter](https://twitter.com/anaximenobrito) ✴️ [Kaggle](https://www.kaggle.com/anaxmenobrito)
-
 # Sup 👋
 
 I am a student of the Computer and Informatics Engineering course at UniCV looking for learning and applicating techniques related to Software Engineering and/or Artificial Intelligence. I am constantly learning, and my projects are created depending on what I am studying or my ideas.
@@ -17,3 +15,7 @@ The better way to contact me is by my [email](mailto:anaximenobrito@gmail.com). 
 TODO:
   - Put recommended projects
 -->
+
+### :pushpin: Useful Links
+
+[GitHub](https://github.com/anaximeno) ✴️ [Gitlab](https://gitlab.com/anaximeno) ✴️ [Email](mailto:anaximenobrito@gmail.com) ✴️ [LinkedIn](https://www.linkedin.com/in/anaximeno/) ✴️ [Twitter](https://twitter.com/anaximenobrito) ✴️ [Kaggle](https://www.kaggle.com/anaxmenobrito)
