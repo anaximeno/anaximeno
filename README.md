@@ -1,4 +1,4 @@
-# Sup 👋
+# Sup :v:
 
 I am a student of the Computer and Informatics Engineering course at UniCV looking for learning and applicating techniques related to Software Engineering and/or Artificial Intelligence. I am constantly learning, and my projects are created depending on what I am studying or my ideas.
 
