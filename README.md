@@ -1,11 +1,14 @@
 # Sup :v:
 
-I am a student of the Computer and Informatics Engineering course at UniCV looking for learning and applicating techniques related to Software Engineering and/or Artificial Intelligence. I am constantly learning, and my projects are created depending on what I am studying or my ideas.
+I'm a student of the Computer and Informatics Engineering course at the University of Cape Verde looking for learning and applicating techniques related to Software Engineering and/or Artificial Intelligence. I am constantly learning, and my projects are created depending on what I am studying or my ideas.
 
+I have experience with software engineering, low-level systems programming, and Artificial Intelligence.
 
+<!--
 ### :star2: Objectives
 
 I like to use creative solutions to problems, and I believe Software Engineering and Artificial Intelligence can help to solve and improve the way we handle different types of problems. So, I want to bring some of the techniques I learned as a solution to problems were are facing nowadays, of course being aware of the risk of using these types of approaches in the real world.
+-->
 
 ### :mailbox_with_mail: How to Reach Me
 
