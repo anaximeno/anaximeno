@@ -2,7 +2,7 @@
 
 I'm a student of the Computer and Informatics Engineering course at the University of Cape Verde looking for learning and applicating techniques related to Software Engineering and/or Artificial Intelligence. I am constantly learning, and my projects are created depending on what I am studying or my ideas.
 
-I have experience with software engineering, low-level systems programming, and Artificial Intelligence.
+I have experience with software engineering, low-level systems programming, backend development, and Artificial Intelligence.
 
 <!--
 ### :star2: Objectives
