@@ -1,8 +1,6 @@
 # Sup :hand:
 
-I'm a student in the Computer Engineering course at the University of Cape Verde. I am constantly learning, and my projects are created depending on what I am studying or my ideas.
-
-I have experience with software engineering, low-level systems programming, backend development, and Machine Learning.
+I'm a student in the Computer Engineering course at the University of Cape Verde, and I have experience with software engineering, low-level systems programming, backend development, and Machine Learning.
 
 <!-- Sup!
 ### :star2: Objectives
