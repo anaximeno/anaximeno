@@ -1,6 +1,6 @@
 # Sup :hand:
 
-I'm a student in the Computer Engineering course at the University of Cape Verde with experience in software engineering, systems programming, backend development, and Machine Learning.
+I'm a student in the Computer Engineering degree at the University of Cape Verde with experience in software engineering, systems programming, backend development, and Machine Learning.
 
 <!-- Sup!
 ### :star2: Objectives
