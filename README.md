@@ -1,6 +1,6 @@
 # Sup :hand:
 
-I'm a student in the Computer Engineering degree at the University of Cape Verde with experience in software engineering, systems programming, backend development, and Machine Learning.
+I'm a student in the Computer Engineering degree at the University of Cape Verde with experience in Software Development, Systems Programming, Full Stack Development, and Machine Learning.
 
 ### :mailbox_with_mail: How to Reach Me
 
