@@ -4,7 +4,7 @@ I'm a student in the Computers and Informatics Engineering degree at the Univers
 
 ### :mailbox_with_mail: How to Reach Me
 
-The better way to contact me is through my [email](mailto:anaximenobrito@gmail.com). Note that, depending on the relevance of the message and the time I have available, I may or may not be slow to respond.
+The better way to contact me is through my email. Note that, depending on the relevance of the message and the time I have available, I may or may not be slow to respond.
 
 ### :pushpin: Useful Links
 
