@@ -1,6 +1,6 @@
 ### Sup :hand:
 
-I'm a student in the Computers and Informatics Engineering degree at the University of Cape Verde with experience in Software Development, Systems Programming, Full Stack Development, and Machine Learning.
+I'm a student in the Computers and Informatics Engineering degree at the University of Cape Verde with experience in Software Development and Artificial Intelligence.
 
 ### :mailbox_with_mail: How to Reach Me
 
