@@ -1,3 +1,4 @@
-### Sup :hand:
+## Sup :hand:
+[LinkedIn](https://linkedin.com/in/anaximeno) | [Kaggle](https://kaggle.com/anaxmenobrito) | [Email](mailto:anaximenobrito@gmail.com)
 
-I'm a student in the Computers and Informatics Engineering degree at the University of Cape Verde with experience in Software Development and Artificial Intelligence.
+I am an undergraduate Computers and Informatics Engineering Student at the University of Cape Verde with some experience in Software Engineering and Artificial Intelligence.
