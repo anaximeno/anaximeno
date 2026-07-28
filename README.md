@@ -2,7 +2,7 @@
 
 [LinkedIn](https://linkedin.com/in/anaximeno) | [Gitlab](https://gitlab.com/anaximeno) | [Kaggle](https://kaggle.com/anaxmenobrito) | [Hugging Face](https://huggingface.co/anaximeno) | [Email](mailto:anaximenobrito@gmail.com) | [ORCID](https://orcid.org/0009-0002-3519-3861)
 
-Studying Computer Science and Engineering at the University of Cape Verde. 
+Studying Computer Engineering at the University of Cape Verde. 
 
 ## Some Projects
 
