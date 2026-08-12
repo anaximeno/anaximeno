@@ -9,7 +9,8 @@ Studying Computer Engineering at the University of Cape Verde.
 - Kriol Programming Language: [Visit Site](https://play.kriol.dev) | [Check Repo](https://github.com/kriol-lang)
 - Hand-drawn Digit Recognition Web App: [Visit Site](https://anaximeno.github.io/Which-Digit) | [Check Repo](https://github.com/anaximeno/Which-Digit)
 - Tic Tac Toe Game With a built-in Expert System Player (Python + Prolog): [Visit Repo](https://github.com/anaximeno/TicTacToes)
+- Implementation of the [Dining Philosophers Concurrency Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) in a RTOS with a Esp32s3 Board: [Visit Repo](https://github.com/anaximeno/esp32-rtos-experiments)
 
-You'll find more projects pinned below, or looking for other repositories here in my profile.
+You'll find more projects pinned below, or by looking for other repositories here in my profile.
 
 Other than that, I also like to contribute to open source projects such as [Linux Mint](https://github.com/linuxmint) in my free time.
