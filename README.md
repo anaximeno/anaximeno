@@ -1,15 +1,19 @@
-B.Sc. in Computer Science and Engineering at the University of Cape Verde. 
+B.Sc. in **Information Technologies and Computer Engineering** at the [University of Cape Verde](https://www.unicv.edu.cv/). I enjoy programming languages, embedded systems, and open source.
 
-## Highlighted Projects
+## Projects
 
-- Kriol Programming Language: [Visit Site](https://play.kriol.dev) | [Check Repo](https://github.com/kriol-lang)
-- Hand-drawn Digit Recognition Web App: [Visit Site](https://anaximeno.github.io/Which-Digit) | [Check Repo](https://github.com/anaximeno/Which-Digit)
-- Tic Tac Toe Game With a built-in Expert System Player (Python + Prolog): [Visit Repo](https://github.com/anaximeno/TicTacToes)
-- [Dining Philosophers Concurrency Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) implemented with a Esp32s3 + RTOS: [Visit Repo](https://github.com/anaximeno/esp32-rtos-experiments)
+| Project | Description | Links |
+| --- | --- | --- |
+| **Kriol Programming Language** | A programming language built around Cape Verdean Creole (Kriol). | [Playground](https://play.kriol.dev) · [Repo](https://github.com/kriol-lang) |
+| **Which Digit** | A web app that recognizes hand-drawn digits. | [Demo](https://anaximeno.github.io/Which-Digit) · [Repo](https://github.com/anaximeno/Which-Digit) |
+| **TicTacToes** | A Tic Tac Toe game with a built-in expert system player (Python + Prolog). | [Repo](https://github.com/anaximeno/TicTacToes) |
+| **ESP32 RTOS Experiments** | The [Dining Philosophers](https://en.wikipedia.org/wiki/Dining_philosophers_problem) concurrency problem implemented on an ESP32-S3 with an RTOS. | [Repo](https://github.com/anaximeno/esp32-rtos-experiments) |
 
-Other projects, can be found through the profile repositories, feel free to comment on them if you have a suggestion.
+More projects are available in my [repositories](https://github.com/anaximeno?tab=repositories). Suggestions and feedback are always welcome.
 
-In my free time I like to voluntarily contribute to open source projects such as the [Linux Mint](https://github.com/linuxmint) operating system.
+## Open Source
+
+In my free time, I volunteer as a contributor to open source projects, such as the [Linux Mint](https://github.com/linuxmint) operating system.
 
 ## Contacts
 
